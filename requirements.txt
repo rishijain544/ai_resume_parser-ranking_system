@@ -1,8 +1,0 @@
-streamlit
-pandas
-altair
-scikit-learn
-spacy
-pdfminer.six  # For reliable PDF text extraction
-docx2txt      # For DOCX text extraction
-reportlab     # For creating mock PDF resumes (used in create_in_memory_resume function)
