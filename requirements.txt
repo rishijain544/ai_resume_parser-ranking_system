@@ -1,0 +1,8 @@
+streamlit
+pandas
+altair
+scikit-learn
+spacy
+pdfminer.six
+docx2txt
+reportlab
