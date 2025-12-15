@@ -1,0 +1,9 @@
+streamlit
+pandas
+altair
+scikit-learn
+spacy
+pdfminer.six  # For reliable PDF text extraction
+docx2txt      # For DOCX text extraction
+reportlab     # For creating mock PDF resumes (used in create_in_memory_resume function)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz  # NEW LINE: Explicitly install the Spacy model
